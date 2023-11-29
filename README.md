@@ -2,7 +2,7 @@
 Capstone project output from "SP201 Essential Excel Skills for Data Preparation and Analysis"
 facilitated by Project SPARTA from Development Academy of the Philippines.
 
-We are expected to create professional data visualizations and summaries in Excel with diverse functions for robust presentation.
+The course expects us to craft professional data visualizations and summaries using a variety of Excel functions for a strong and impactful presentation.
 
 # Read more
 In our final capstone, we were tasked with creating a chart to visually represent the results of our hypothesis testing.
