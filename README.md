@@ -1,4 +1,4 @@
-# Study-Habits-Survey-Results
+# Study Habits Survey Results
 Capstone project output from "SP201 Essential Excel Skills for Data Preparation and Analysis"
 facilitated by Project SPARTA from Development Academy of the Philippines.
 
