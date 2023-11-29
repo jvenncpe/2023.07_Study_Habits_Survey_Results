@@ -1,4 +1,5 @@
-# Study Habits Survey Results
+#### *Capstone Project: July 2023*
+# Study Habits Survey Results 
 
 Capstone project output from "SP201 Essential Excel Skills for Data Preparation and Analysis"
 facilitated by Project SPARTA from Development Academy of the Philippines.
@@ -6,10 +7,11 @@ facilitated by Project SPARTA from Development Academy of the Philippines.
 The course expects us to craft professional data visualizations and summaries using a variety of Excel functions for a strong and impactful presentation.
 
 ## Activity
-In our final capstone, we were tasked with creating a chart to visually represent the results of our hypothesis testing. In my case, the specifics about the hypothesis testing can be located in the Week 4 Excel file. 
-Following this, we'll determine the most fitting chart type for our data, housed within a separate worksheet titled 'CHART'.
+We were assigned to develop a chart that visually illustrates the outcomes of our hypothesis testing. Detailed information regarding the hypothesis testing can be found under the 'Week 4' tab in the Excel file.
 
->*P.S. The visualizations and hypotheses formulated were still at a foundational level as this was yet the initial stages of the course.*
+Subsequently, we will identify the most suitable chart type to represent our data. This data is stored in a separate worksheet tab labeled 'CHART'.
+
+>*P.S. The hypotheses and visualizations formulated were still at a foundational level as this was yet the initial stages of the "Data Scientist" course pathway.*
 
 
 
