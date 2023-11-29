@@ -1,23 +1,23 @@
-![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/sp201.png)
+# Study Habits Survey Results
 
 Capstone project output from "SP201 Essential Excel Skills for Data Preparation and Analysis"
 facilitated by Project SPARTA from Development Academy of the Philippines.
 
 The course expects us to craft professional data visualizations and summaries using a variety of Excel functions for a strong and impactful presentation.
 
-# Activity
+## Activity
 In our final capstone, we were tasked with creating a chart to visually represent the results of our hypothesis testing. In my case, the specifics about the hypothesis testing can be located in the Week 4 Excel file. 
 Following this, we'll determine the most fitting chart type for our data, housed within a separate worksheet titled 'CHART'.
 
-*However, this marked the initial stages of the course, and the hypotheses formulated were at a foundational level as well as the visualizations.*
+>*P.S. The visualizations and hypotheses formulated were still at a foundational level as this was yet the initial stages of the course.*
 
 
 
 
 
 
-## Methodology Implementation
-### The survey aims to gather information from respondents on the following details:
+## Survey Details
+The survey aims to gather information from respondents on the following details:
 
 • location and settlement classification,
 
@@ -35,30 +35,32 @@ Following this, we'll determine the most fitting chart type for our data, housed
 
 
 
+## Visualizations
+Afterwards, basic visualizations were made according to:
 
-### Afterwards, basic visualizations were made according to:
+• A stacked column illustrates the "Distribution of Enjoyment of Studying/Learning" along with settlement classification composition.
 
-• Stack Column for the "Distribution of Enjoyment of Studying/Learning" with settlement classification composition.
+• Pie Chart Representing Preferred Times of the Day: Morning, Afternoon, Evening, and Late-night
 
-• Pie Chart for the "Preferred Time of the Day", i.e., Morning, Afternoon, Evening & Late-night
+• A bar graph showing the average hours spent per day in the morning, afternoon, evening, and late-night.
 
-• Bar Chart for the "Average Daily Time Spent (hours) per "Time of the Day", i.e., Morning, Afternoon, Evening & Late-night
+• Another bar chart for the preferred study locations.
 
-• Another Bar Charts for the "Preferred Studying/Learning Location" and,
+• Additional bar graphs for the average spending on preferred study materials.
 
-• "Average Expenditure on Preferred Studying/Learning Materials"
+![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/sp201.png)
 
 
 
 
 ## Results and Discussion
 
-• The number of people enjoying studying/learning between urban and rural is, 19 and 15, respectively. That is 56% and 44% percentage distribution.
+• In total, 19 individuals from urban areas and 15 from rural areas reported enjoying studying or learning, representing a distribution of 56% and 44%, respectively.
 
-• The preferred studying/learning time is Morning.
+• Most respondents indicated that their preferred time for studying or learning is in the morning.
 
-• Overall average daily time spent on studying/learning is "1.80hrs".
+• On average, respondents spend approximately 1.80 hours daily on studying or learning.
 
-• The preferred studying/learning location is "Home".
+• The preferred location for studying or learning is at home.
 
-• Overall average expenditure on studying/learning is "₱783.67".
+• The average expenditure on studying/learning overall is "₱783.67".
