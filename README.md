@@ -1,6 +1,6 @@
 # Study Habits Survey Results
 
-![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/colaste_juvendale_SP201B04_capstone.PNG)
+![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/sp201.png)
 
 Capstone project output from "SP201 Essential Excel Skills for Data Preparation and Analysis"
 facilitated by Project SPARTA from Development Academy of the Philippines.
