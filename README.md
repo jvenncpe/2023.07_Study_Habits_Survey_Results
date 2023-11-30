@@ -1,5 +1,3 @@
-
-
 #### *Capstone Project: July 2023*
 # Study Habits Survey Results 
 
@@ -13,16 +11,12 @@ We were assigned to develop a chart that visually illustrates the outcomes of ou
 
 Subsequently, we will identify the most suitable chart type to represent our data. This data is stored in a separate worksheet tab labeled 'CHART'.
 
-![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/Screenshot%202023-11-30%20160221.png)
-
 >*P.S. The hypotheses and visualizations formulated were still at a foundational level as this was yet the initial stages of the "Data Scientist" course pathway.*
 
-
-
-
-
-
 ## Survey Details
+
+![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/Screenshot%202023-11-30%20160221.png)
+
 The survey aims to gather information from respondents on the following details:
 
 • location and settlement classification,
