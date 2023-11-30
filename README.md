@@ -36,6 +36,9 @@ The survey aims to gather information from respondents on the following details:
 
 
 ## Visualizations
+
+![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/sp201.png)
+
 Afterwards, basic visualizations were made according to:
 
 • A stacked column illustrates the "Distribution of Enjoyment of Studying/Learning" along with settlement classification composition.
@@ -47,10 +50,6 @@ Afterwards, basic visualizations were made according to:
 • Another bar chart for the preferred study locations.
 
 • Additional bar graphs for the average spending on preferred study materials.
-
-![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/sp201.png)
-
-
 
 
 ## Results and Discussion
