@@ -1,3 +1,5 @@
+
+
 #### *Capstone Project: July 2023*
 # Study Habits Survey Results 
 
@@ -10,6 +12,8 @@ The course expects us to craft professional data visualizations and summaries us
 We were assigned to develop a chart that visually illustrates the outcomes of our hypothesis testing. Detailed information regarding the hypothesis testing can be found under the 'Week 4' tab in the Excel file.
 
 Subsequently, we will identify the most suitable chart type to represent our data. This data is stored in a separate worksheet tab labeled 'CHART'.
+
+![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/Screenshot%202023-11-30%20160221.png)
 
 >*P.S. The hypotheses and visualizations formulated were still at a foundational level as this was yet the initial stages of the "Data Scientist" course pathway.*
 
