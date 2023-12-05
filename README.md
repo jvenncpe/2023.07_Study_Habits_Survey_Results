@@ -1,4 +1,7 @@
 #### *Capstone Project: July 2023*
+
+![](https://github.com/jvenncpe/Study-Habits-Survey-Results/blob/main/images/sp201.png)
+
 # Study Habits Survey Results 
 
 Capstone project output from "SP201 Essential Excel Skills for Data Preparation and Analysis"
